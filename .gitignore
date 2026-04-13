@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# 编辑器
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# 不推送的临时文件
+*.tmp
+*.draft
