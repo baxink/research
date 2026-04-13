@@ -2,8 +2,8 @@
 # GitHub 仓库初始化配置脚本
 
 # 请修改以下变量为你的 GitHub 用户名和仓库名
-GITHUB_USER="YOUR_USERNAME"
-GITHUB_REPO="YOUR_REPO"
+GITHUB_USER="baxink"
+GITHUB_REPO="research"
 
 REMOTE_URL="https://github.com/${GITHUB_USER}/${GITHUB_REPO}.git"
 
