@@ -16,6 +16,5 @@
 
 - **仓库主页**：https://github.com/baxink/research
 - **文档存放位置**：[`docs/`](./docs)
-- **推送方式**：运行 `bash push-to-github.sh "更新说明"`
 
 如有新的 Markdown 文档发布，文档目录表格将同步更新。
