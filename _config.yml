@@ -6,7 +6,7 @@ tagline: 船舶检验与规范研究
 description: >-
   记录船舶技术、检验规范与海事法规相关的学习笔记和研究文章。
 url: "https://baxink.github.io"
-baseurl: "/research"
+baseurl: ""
 
 github:
   username: baxink

@@ -8,7 +8,7 @@
 
 ## 访问
 
-博客地址：https://baxink.github.io/research
+博客地址：https://baxink.github.io
 
 ## 文章
 
