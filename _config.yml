@@ -5,6 +5,7 @@ title: 船舶技术笔记
 tagline: 船舶检验与规范研究
 description: >-
   记录船舶技术、检验规范与海事法规相关的学习笔记和研究文章。
+
 url: "https://baxink.github.io"
 baseurl: "/research"
 
@@ -15,30 +16,6 @@ theme: jekyll-theme-chirpy
 
 permalink: /posts/:title/
 
-pagination:
-  enabled: true
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: post
-      comments: false
-      toc: true
-
-sass:
-  style: compressed
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
-
 exclude:
   - "*.gem"
   - "*.gemspec"
@@ -48,3 +25,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - .git
+  - .github
