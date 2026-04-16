@@ -14,7 +14,18 @@ github:
 
 theme: jekyll-theme-chirpy
 
-permalink: /posts/:title/
+# Jekyll 分页
+paginate: 10
+paginate_path: "/page/:num/"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
 
 exclude:
   - "*.gem"
