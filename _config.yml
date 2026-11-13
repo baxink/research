@@ -12,6 +12,11 @@ baseurl: ""
 github:
   username: baxink
 
+social:
+  name: 船舶技术笔记
+  links:
+    - https://github.com/baxink
+
 theme: jekyll-theme-chirpy
 
 # 头像
@@ -20,6 +25,17 @@ avatar: /assets/img/avatar.png
 # Jekyll 分页
 paginate: 10
 paginate_path: "/page/:num/"
+
+collections:
+  tabs:
+    output: true
+
+jekyll-archives:
+  enabled: [categories]
+  layouts:
+    category: category
+  permalinks:
+    category: /categories/:name/
 
 defaults:
   - scope:
